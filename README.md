@@ -3,10 +3,10 @@
 Welcome to Find the Flower, a web application developed in Django that utilizes a pre-trained VGG16 Convolutional Neural Network (CNN) model for flower classification and detection. With this application, users can upload images of flowers and receive predictions on the flower's category.
 Features
 
-    Flower Classification: The application leverages a VGG16 CNN model to classify flower images into predefined categories.
-    Simple Interface: User-friendly interface for uploading flower images and viewing classification results.
-    Supports Multiple Categories: Currently supports classification for five different categories of flowers.
-    Requirements: All necessary dependencies are listed in the requirements.txt file for easy installation.
+**Flower Classification**: The application leverages a VGG16 CNN model to classify flower images into predefined categories.
+**Simple Interface**: User-friendly interface for uploading flower images and viewing classification results.
+**Supports Multiple Categories**: Currently supports classification for five different categories of flowers.
+**Requirements**: All necessary dependencies are listed in the requirements.txt file for easy installation.
 
 ## Getting Started
 ### Prerequisites
