@@ -48,6 +48,11 @@ bash
     python manage.py runserver
 
     Open your web browser and go to http://localhost:8000 to access the application.
+## Screenshots
+    ![Home page](findtheflower_home.jpg)
+    ![Result page](findtheflower_result.jpg)
+
+
 
 ## Usage
 
