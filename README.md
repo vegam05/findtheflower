@@ -49,8 +49,8 @@ bash
 
     Open your web browser and go to http://localhost:8000 to access the application.
 ## Screenshots
-    ![Home page](findtheflower/findtheflower_home.jpg)
-    ![Result page](findtheflower/findtheflower_result.jpg)
+   ![findtheflower_home](https://github.com/vegam05/findtheflower/assets/111033580/6451ac48-2b57-4ecd-817f-9a31af32fee1)
+   ![findtheflower_result](https://github.com/vegam05/findtheflower/assets/111033580/455e2d4d-a3a6-4005-887e-57f4b046afc4)
 
 
 
