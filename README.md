@@ -1,7 +1,7 @@
 # Find the Flower
 
-Welcome to Find the Flower, a web application developed in Django that utilizes a pre-trained VGG16 Convolutional Neural Network (CNN) model for flower classification and detection. With this application, users can upload images of flowers and receive predictions on the flower's category.
-Features
+Welcome to Find the Flower, a web application developed in Django that utilizes a VGG16 Convolutional Neural Network (CNN) model for flower classification and detection. With this application, users can upload images of flowers and receive predictions on the flower's category.
+## Features
 
 **Flower Classification**: The application leverages a VGG16 CNN model to classify flower images into predefined categories.
 
@@ -21,33 +21,24 @@ Ensure you have the following installed before running the application:
 
 ### Installation
 
-    Clone the repository:
+Clone the repository:
 
-    bash
-
-git clone https://github.com/your-username/find-the-flower.git
-
+    git clone https://github.com/your-username/find-the-flower.git
 Navigate to the project directory:
 
-bash
-
-cd find-the-flower
-
+    cd find-the-flower
 Install dependencies using pip:
-
-bash
 
     pip install -r requirements.txt
 
 ### Running the Application
 
-    Start the Django development server:
-
-    bash
+ Start the Django development server:
 
     python manage.py runserver
 
-    Open your web browser and go to http://localhost:8000 to access the application.
+Open your web browser and go to http://localhost:8000 to access the application.
+
 ## Screenshots
    ![findtheflower_home](https://github.com/vegam05/findtheflower/assets/111033580/6451ac48-2b57-4ecd-817f-9a31af32fee1)
    ![findtheflower_result](https://github.com/vegam05/findtheflower/assets/111033580/455e2d4d-a3a6-4005-887e-57f4b046afc4)
@@ -56,9 +47,11 @@ bash
 
 ## Usage
 
-    Upload an image of a flower using the provided interface.
-    Click on the "Classify" button to receive predictions on the flower's category.
-    View the classification results and explore the application's features.
+**-Upload an image of a flower using the provided interface.**
+
+**-Click on the "Upload" button to receive predictions on the flower's category.**
+
+**-View the classification results and continue uploading more pictures if you want.**
 
 ## Contributing
 
